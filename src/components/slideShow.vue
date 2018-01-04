@@ -102,7 +102,6 @@
   .slide-show h2 {
     position: absolute;
     width: 100%;
-    height: 100%;
     color: #fff;
     background: #000;
     opacity: .5;

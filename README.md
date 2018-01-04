@@ -1,6 +1,6 @@
 # vue-mall
 
-> A Vue.js project
+ A Vue.js project
 
 ## 主要练习
 
